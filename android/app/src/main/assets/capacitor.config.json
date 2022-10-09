@@ -1,0 +1,6 @@
+{
+	"appId": "com.jcedenio.uploadImage",
+	"appName": "uploadImage",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
